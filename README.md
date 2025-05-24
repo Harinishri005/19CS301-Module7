@@ -2,7 +2,7 @@
 # Reg No: 212223090008
 # Name: Harinishri S
 
-EX: 7.1 RECURSION
+# EX: 7.1 RECURSION
 ### Aim: 
 To Write a Python Program to find the sum of all digits in a number using recursion
 ### Algorithm:
@@ -32,7 +32,7 @@ print(sum)
 Thus, the given program is implemented and executed successfully .
  
 
-EX: 7.2 TYPES OF RECURSIONS
+# EX: 7.2 TYPES OF RECURSIONS
 ### Aim:
 To Write a Python Program to find the sum of all digits in a number using recursion
 ### Algorithm:
@@ -65,7 +65,7 @@ else:
  
 
 
-EX: 7.3 TAYLOR SERIES
+# EX: 7.3 TAYLOR SERIES
 
 ###Aim: 
 To python program to evaluate the series using recursion by collecting the x and n values from the user.
@@ -100,7 +100,7 @@ print(series(x,n))
 Thus, the given program is implemented and executed successfully .
  
 
-EX: 7.4 Solve by recursion relation
+# EX: 7.4 Solve by recursion relation
 
 ### Aim: 
 To Write a Python Program to find whether a string is a palindrome or not using recursion
@@ -142,7 +142,8 @@ else:
 ### Result: 
 Thus, the given program is implemented and executed successfully .
 
-SEB - Check Palindrome using Recursion
+
+## SEB - Check Palindrome using Recursion
 
 ### Aim:
 To write a Python program that checks whether a given string is a palindrome using recursion.
